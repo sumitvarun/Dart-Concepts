@@ -1,4 +1,4 @@
-//This is a summary about the Dart basics I covered in the previous two lectures. You also find this summary attached as a PDF.
+
 
 ---
 
